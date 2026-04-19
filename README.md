@@ -1,2 +1,2 @@
 # Research-Assignment
-Research Assignment is our first assignment 
+Research Assignment is our first Theory assignment 
